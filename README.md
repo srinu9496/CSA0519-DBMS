@@ -9,3 +9,9 @@
 ## exp-3
 [exp-3 Quiries](https://github.com/srinu9496/CSA0519-DBMS/blob/main/exp-3)
 ![image](https://user-images.githubusercontent.com/113226389/191302018-1464930d-d166-4850-abda-f15c4fb9b0fd.png) 
+## exp-4
+[exp-4 Quiries](https://github.com/srinu9496/CSA0519-DBMS/blob/main/exp-4)
+![image](https://user-images.githubusercontent.com/113226389/191304211-b66bcd3a-a5e9-4e6a-b959-18095d8ff047.png)
+![image](https://user-images.githubusercontent.com/113226389/191304470-3552862c-d3af-4133-a066-af70808591bc.png)
+![image](https://user-images.githubusercontent.com/113226389/191304633-5a00090b-04d1-4faf-ade0-6adaeb802c4c.png)
+![image](https://user-images.githubusercontent.com/113226389/191304766-3bd7958f-d128-4809-a6ce-656debc068ab.png)
