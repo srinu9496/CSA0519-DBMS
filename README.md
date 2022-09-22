@@ -62,6 +62,10 @@
 ## exp-17
 [exp-17 Quriries](https://github.com/srinu9496/CSA0519-DBMS/blob/main/exp-17)
 ![image](https://user-images.githubusercontent.com/113224102/191709934-b770d6a7-5b7c-4540-be21-3fdebda81444.png)
+## exp-18
+[exp-18 Quriries](https://github.com/srinu9496/CSA0519-DBMS/blob/main/exp-18)
+![image](https://user-images.githubusercontent.com/113224102/191711234-8d4c0296-a704-4349-bb3e-9313e49802dc.png)
+
 
 
 
