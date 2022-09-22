@@ -38,4 +38,8 @@
 ![image](https://user-images.githubusercontent.com/113226389/191555805-136b9f79-5af5-4657-b4c5-b01d12bd48d3.png)
 ![image](https://user-images.githubusercontent.com/113226389/191556003-fb322e23-e754-47fa-b89d-70df53b90752.png)
 ![image](https://user-images.githubusercontent.com/113226389/191556129-718d757f-4084-4892-a536-9d6180926549.png)
+## exp-10
+[exp-10 Quiries](https://github.com/srinu9496/CSA0519-DBMS/blob/main/exp-10)
+![image](https://user-images.githubusercontent.com/113224102/191664584-f3f800bc-f31c-4e2d-bfd2-e6a8c047ae04.png)
+
 
