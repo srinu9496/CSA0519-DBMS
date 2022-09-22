@@ -30,3 +30,7 @@
 ## exp-7
 [exp-7 Quiries](https://github.com/srinu9496/CSA0519-DBMS/blob/main/exp-7)
 ![image](https://user-images.githubusercontent.com/113226389/191317265-ef314b6f-6168-4aed-bec4-5ffd8fd08966.png)
+## exp-8
+[exp-8 Quiries](https://github.com/srinu9496/CSA0519-DBMS/blob/main/exp-8)
+![image](https://user-images.githubusercontent.com/113224102/191661654-fd7880ee-918b-45db-85ac-3564fb5b6ea4.png)
+
