@@ -68,6 +68,10 @@
 ## exp-19
 [exp-19 Quiries](https://github.com/srinu9496/CSA0519-DBMS/blob/main/exp-19)
 ![image](https://user-images.githubusercontent.com/113224102/191819535-63f61c5a-19dc-4527-ab42-24c39e9457c4.png)
+## exp-20
+[exp-20 Quiries](https://github.com/srinu9496/CSA0519-DBMS/blob/main/exp-20)
+![image](https://user-images.githubusercontent.com/113224102/191820151-69122fde-a126-4445-a366-1784bdb2d246.png)
+
 
 
 
