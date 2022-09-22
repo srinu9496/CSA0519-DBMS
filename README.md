@@ -49,6 +49,9 @@
 [exp-12 Quiries](https://github.com/srinu9496/CSA0519-DBMS/blob/main/exp-12)
 ![image](https://user-images.githubusercontent.com/113224102/191666713-af5ec6d0-c70b-4b5f-89d7-e0d45d0a60c0.png)
 ![image](https://user-images.githubusercontent.com/113224102/191666799-735b9377-731e-48d2-8c73-bfe45bd0c6e3.png)
+## exp-13
+[exp-13 Quiries](https://github.com/srinu9496/CSA0519-DBMS/blob/main/exp-13)
+![image](https://user-images.githubusercontent.com/113224102/191667546-741f8357-4fbd-42c4-822a-c89a0fcd0494.png)
 
 
 
